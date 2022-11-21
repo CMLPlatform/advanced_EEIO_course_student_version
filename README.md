@@ -25,6 +25,6 @@ N.B. LINKS ARE TEMPORARY AND NEED TO BE FIXED
 - [Physical IO tables](ex_7)
 - [Mid-term exam](midterm)
 - [Waste IO](ex_8)
-- [Week 17 Structural decomposition analysis](ex_9)
+- [Structural decomposition analysis](ex_9)
 - [Technology-adjusted CBA](ex_10)
 - [Modeling circularity interventions](ex_14)
