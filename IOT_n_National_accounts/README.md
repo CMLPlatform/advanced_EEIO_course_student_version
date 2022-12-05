@@ -6,6 +6,8 @@
 - Articulate the main national accounts in IO tables
 - Comprehend the three approaches of GDP accounting
 
+[comment]: <> (it's not clear to me what "Articulate" really means in this context. I think )
+
 ### Know:
 - IOTs’ relationship with national accounts
 
@@ -16,4 +18,4 @@ For EU-27 and Netherlands, respectively, obtain, plot, and analyze the following
 1. Annual GDP (since 2000) and GDP growth rate
 2. GDP from the expenditure perspective.
 3. GDP composition from the income perspective, respectively.
-4. The ratio of employee compensataion to gross value added by basic 10-industry breakdown. (Home assignment)
+4. The ratio of employee compensation to gross value added by basic 10-industry breakdown. (Home assignment)
