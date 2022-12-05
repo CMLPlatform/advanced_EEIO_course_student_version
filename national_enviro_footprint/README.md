@@ -1,4 +1,13 @@
-## Exercise 4: Environmental footprints of the nations
+# National Environmental footprints 
+## Goals of the exercise 
+**Can**
+- Calculate ‘environmental’ footprint of nations
+- Interpret and locate the ‘environmental’ footprint results
+- Calculate ‘emissions’ embodied in trade
+**Know**
+- Conventional trade balance vs ‘real’ trade balance
+
+## Exercise description
 
 There are 5 tasks in this exercise. The dataset is constructed from real-world data in the year of 2015, specifically:
 

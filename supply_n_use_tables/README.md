@@ -15,7 +15,7 @@ https://www.cbs.nl/en-gb/custom/2020/29/supply-and-use-input-output-and-sector-a
 1. Pick two products, and analyse the supply structure (domestic supply and imports) of each
 product for the year of 2019. 
 
-[comment]: <> (point 1 not specific enough. Rephrase to "perform a hotspot analysis of the supply and use of an industry of your choosing". If we want the discussion on import, then we can ask "please identify, the portion of input contributing to industry's supply")
+[comment]: <> (point 1 not specific enough. Rephrase to "perform a hotspot analysis of the supply and use of an industry of your choosing". If we want the discussion on import, then we can ask "please identify how much import contributes to industry's supply")
 
 2. In the use table, aggregate the industries into three sectors: primary sector, secondary sector, and
 tertiary sector for the year 2018 and 2019.
