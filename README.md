@@ -22,8 +22,6 @@ Integrated group assignment (50%; ≥5.5 to pass )
 [comment]: <> (We need to upadate the teaching crew)
 ### Exercises by Weekly program:
 
-N.B. LINKS ARE TEMPORARY AND NEED TO BE FIXED
-
 - [Course introduction; IOT & National accounts](IOT_n_National_accounts) 
 - [Supply and use tables](supply_n_use_tables)
 - [Two IO models: Leontief v. Ghosh](leontief_n_ghosh_models)
@@ -36,3 +34,7 @@ N.B. LINKS ARE TEMPORARY AND NEED TO BE FIXED
 - [Structural decomposition analysis](structural_decomposition_analysis)
 - [Technology-adjusted CBA](carbon_based_accounting)
 - [Modeling circularity interventions](modelling_circularity_interventions)
+
+### Additional resources and exercises
+
+- [Python warm-ups](python_warmups)
