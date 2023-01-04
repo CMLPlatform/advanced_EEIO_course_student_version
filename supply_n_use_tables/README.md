@@ -1,4 +1,4 @@
-# Exercise 2
+# Supply and use tables
 
 ## Learning goals
 - Understand the structure of supply and use tables

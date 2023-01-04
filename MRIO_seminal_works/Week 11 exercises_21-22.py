@@ -1,10 +1,10 @@
 """
 EIOA course
 
-Week 11 Exercises - MRIO semantic 
+Week 11 Exercises - MRIO seminal works
 
 This module provides a code example to address Part B of week 5 exercises
-(i,e., MRIO semantic).
+(i,e., MRIO seminal).
 
 
 The module includes:
@@ -26,8 +26,8 @@ Based on 'Week 4 exercises' from Wang
 """
 # IMPORT PACKAGES
 
-import pandas as pd           # shortening "pandas" to "pd" to make code easier to read
-import numpy as np            # shortening "numpy" to "np" to make code easier to read
+import pandas as pd 
+import numpy as np
 
 
 
