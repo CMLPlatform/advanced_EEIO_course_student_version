@@ -1,4 +1,4 @@
-# advanced_EEIO_course_notebooks
+# Advanced EEIO course notebooks
 All exercises for the advanced course on EEIOA at Leiden University CML
 
 Assessments
