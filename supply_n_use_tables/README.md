@@ -3,7 +3,7 @@
 ## Learning goals
 - Understand the structure of supply and use tables
 - Practice and interpret the industry aggregation/disaggregation in SUT
-- Understand how to transform SUTs into IOT
+- Practice how to transform SUTs into IOT
 
 ## Exercise instructions
 
