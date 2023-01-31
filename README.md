@@ -15,14 +15,13 @@ Integrated group assignment (50%; ≥5.5 to pass )
 ## Learning goals of the course 
 - G1. Develop a more in-depth understanding of the IO tables and EEIOA from the EEIOA basics introduced in MAPP.
 - G2. Articulate the advanced EEIOA techniques introduced in the course and their applications in sustainability research and decision-making.
-- G3. Model, in Python, and analyze the economic and environmental effects of production and consumption and potential policies across supply chains.
+- G3. Model in Python, and analyze the economic and environmental effects of production and consumption and potential policies across supply chains.
 - G4. Develop and present a quantitative study using EEIOA, interpreting its main results and potential limitations.
 
-[comment]: <> (Are the two big topics still applicable? i.e. Brexit and COVID-19)
-[comment]: <> (We need to upadate the teaching crew)
+
 ### Exercises by Weekly program:
 
-- [Course introduction; IOT & National accounts](IOT_n_National_accounts) 
+- [Course introduction; IOT & National accounts](IOT_n_national_accounts) 
 - [Supply and use tables](supply_n_use_tables)
 - [Two IO models: Leontief v. Ghosh](leontief_n_ghosh_models)
 - [Environmental footprints of the nations](national_enviro_footprint)
