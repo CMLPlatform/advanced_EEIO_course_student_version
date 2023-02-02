@@ -11,18 +11,18 @@ All exercises for the advanced course on EEIOA at Leiden University CML
 
 ### Exercises by Weekly program:
 
-- [Course introduction; IOT & National accounts](IOT_n_national_accounts)
+- [IOT & National accounts](IOT_n_national_accounts)
 - [Supply and use tables](supply_n_use_tables)
 - [Two IO models: Leontief v. Ghosh](leontief_n_ghosh_models)
-- [Environmental footprints of the nations](national_enviro_footprint)
+- [Environmental footprints of nations](national_enviro_footprint)
 - [Introduction to EXIOBASE](intro_exiobase)
 - [MRIO seminal works](MRIO_seminal_works)
-- [Physical and Hybrid IO tables](physical_n_hybrid_IO)
-- [Mid-term exam](midterm)
-- [Waste IO](waste_IO)
-- [Structural decomposition analysis](structural_decomposition_analysis)
 - [Technology-adjusted CBA](carbon_based_accounting)
+- [Structural decomposition analysis](structural_decomposition_analysis)
+- [Mid-term exam](midterm)
 - [Modeling circularity interventions](modelling_circularity_interventions)
+- [Waste IO](waste_IO)
+- [Physical and Hybrid IO tables](physical_n_hybrid_IO)
 
 ## Assessments
 
