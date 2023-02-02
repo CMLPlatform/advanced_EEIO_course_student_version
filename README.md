@@ -38,6 +38,4 @@ Integrated group assignment (50%; ≥5.5 to pass )
 - Submission: script and presentation slides
 - Revise if <5.5
 
-### Additional resources and exercises
-
-- [Python warm-ups](python_warmups)
+### Additional resources
