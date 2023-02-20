@@ -37,17 +37,17 @@ While you can download the exercises directly from Gist by using the download bu
 
 If you don’t have it already, you will need to create a github account: <https://github.com/join>
 
-All these procedures can be perfomed both in through Github desktop or any terminal such as Anaconda Prompt, Windows PowerShell or Linux Bash Shell
+All these procedures can be perfomed both in Github desktop or in any terminal such as Anaconda Prompt, Windows PowerShell or Linux Bash Shell
 
 **Step 1:** Open your terminal or Github desktop app (bash on Linux or PowerShell in windows)
 
 **Step 2:** If git is not already installed on your machine, you should install git by using the following procedures <https://github.com/git-guides/install-git> or installing Github desktop <https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/>
 
-**Step 3:** Ones you installed git you will need first to fork the repository (i.e., make a copy) <https://docs.github.com/en/get-started/quickstart/fork-a-repo> . You will find the forked repository on your own Github page
+**Step 3:** Once you installed git you will need first to fork the repository (i.e., make a copy) <https://docs.github.com/en/get-started/quickstart/fork-a-repo> . You will find the forked repository on your own Github page
 
 **Step 4:** Clone (i.e., download) your forked repository locally so that you can work on the code on your computer <https://github.com/git-guides/git-clone> . By clicking on the green code button in your repository you will see the options you have to clone
 
-On the terminal: git clone [.git link to the repository]
+In the terminal: git clone [.git link to the repository]
 
 #### If at the end of the exercise you want to save your work
 
@@ -57,16 +57,17 @@ On the terminal: git status
 
 **Step 6:** Adding or removing files that you want to commit (i.e., save)
 
-On the terminal: git add [name of the file] or git rm [name of the file]
+In the terminal if you want to add files that have been changed: git add [name of the file]
+If you want to remove files that have been changed: git rm [name of the file] (or git rm --cached [name of the file] if you want to eliminate the file only on github)
 
 **Step 7:**
 
 - Commit your work by typing
-- git commit -m “Short comment of what you changed”
+- git commit -m “Short comment on what you changed”
 
 **Step 8:**
 
-- Finally add your changes to your remote (i.e., online) repository
+Finally add your changes to your remote (i.e., online) repository by typing
 - git push
 
 **Step 9:**
