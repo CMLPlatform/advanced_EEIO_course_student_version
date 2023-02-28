@@ -1,0 +1,25 @@
+region,sector
+OECD,Food
+OECD,Clothing
+OECD,Shelter
+OECD,Construction
+OECD,Manufactured products
+OECD,Mobility
+OECD,Trade
+OECD,Services
+BRICS,Food
+BRICS,Clothing
+BRICS,Shelter
+BRICS,Construction
+BRICS,Manufactured products
+BRICS,Mobility
+BRICS,Trade
+BRICS,Services
+ROW,Food
+ROW,Clothing
+ROW,Shelter
+ROW,Construction
+ROW,Manufactured products
+ROW,Mobility
+ROW,Trade
+ROW,Services
