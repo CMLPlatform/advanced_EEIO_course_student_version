@@ -1,0 +1,344 @@
+region,country_code,country_name,CountryGroup
+EU,AT,Austria,Europe
+EU,AT,Austria,Europe
+EU,AT,Austria,Europe
+EU,AT,Austria,Europe
+EU,AT,Austria,Europe
+EU,AT,Austria,Europe
+EU,AT,Austria,Europe
+EU,BE,Belgium,Europe
+EU,BE,Belgium,Europe
+EU,BE,Belgium,Europe
+EU,BE,Belgium,Europe
+EU,BE,Belgium,Europe
+EU,BE,Belgium,Europe
+EU,BE,Belgium,Europe
+EU,BG,Bulgaria,Europe
+EU,BG,Bulgaria,Europe
+EU,BG,Bulgaria,Europe
+EU,BG,Bulgaria,Europe
+EU,BG,Bulgaria,Europe
+EU,BG,Bulgaria,Europe
+EU,BG,Bulgaria,Europe
+ROW,CY,Cyprus,Middle East
+ROW,CY,Cyprus,Middle East
+ROW,CY,Cyprus,Middle East
+ROW,CY,Cyprus,Middle East
+ROW,CY,Cyprus,Middle East
+ROW,CY,Cyprus,Middle East
+ROW,CY,Cyprus,Middle East
+EU,CZ,Czech Republic,Europe
+EU,CZ,Czech Republic,Europe
+EU,CZ,Czech Republic,Europe
+EU,CZ,Czech Republic,Europe
+EU,CZ,Czech Republic,Europe
+EU,CZ,Czech Republic,Europe
+EU,CZ,Czech Republic,Europe
+EU,DE,Germany,Europe
+EU,DE,Germany,Europe
+EU,DE,Germany,Europe
+EU,DE,Germany,Europe
+EU,DE,Germany,Europe
+EU,DE,Germany,Europe
+EU,DE,Germany,Europe
+EU,DK,Denmark,Europe
+EU,DK,Denmark,Europe
+EU,DK,Denmark,Europe
+EU,DK,Denmark,Europe
+EU,DK,Denmark,Europe
+EU,DK,Denmark,Europe
+EU,DK,Denmark,Europe
+EU,EE,Estonia,Europe
+EU,EE,Estonia,Europe
+EU,EE,Estonia,Europe
+EU,EE,Estonia,Europe
+EU,EE,Estonia,Europe
+EU,EE,Estonia,Europe
+EU,EE,Estonia,Europe
+EU,ES,Spain,Europe
+EU,ES,Spain,Europe
+EU,ES,Spain,Europe
+EU,ES,Spain,Europe
+EU,ES,Spain,Europe
+EU,ES,Spain,Europe
+EU,ES,Spain,Europe
+EU,FI,Finland,Europe
+EU,FI,Finland,Europe
+EU,FI,Finland,Europe
+EU,FI,Finland,Europe
+EU,FI,Finland,Europe
+EU,FI,Finland,Europe
+EU,FI,Finland,Europe
+EU,FR,France,Europe
+EU,FR,France,Europe
+EU,FR,France,Europe
+EU,FR,France,Europe
+EU,FR,France,Europe
+EU,FR,France,Europe
+EU,FR,France,Europe
+EU,GR,Greece,Europe
+EU,GR,Greece,Europe
+EU,GR,Greece,Europe
+EU,GR,Greece,Europe
+EU,GR,Greece,Europe
+EU,GR,Greece,Europe
+EU,GR,Greece,Europe
+EU,HR,Croatia,Europe
+EU,HR,Croatia,Europe
+EU,HR,Croatia,Europe
+EU,HR,Croatia,Europe
+EU,HR,Croatia,Europe
+EU,HR,Croatia,Europe
+EU,HR,Croatia,Europe
+EU,HU,Hungary,Europe
+EU,HU,Hungary,Europe
+EU,HU,Hungary,Europe
+EU,HU,Hungary,Europe
+EU,HU,Hungary,Europe
+EU,HU,Hungary,Europe
+EU,HU,Hungary,Europe
+EU,IE,Ireland,Europe
+EU,IE,Ireland,Europe
+EU,IE,Ireland,Europe
+EU,IE,Ireland,Europe
+EU,IE,Ireland,Europe
+EU,IE,Ireland,Europe
+EU,IE,Ireland,Europe
+EU,IT,Italy,Europe
+EU,IT,Italy,Europe
+EU,IT,Italy,Europe
+EU,IT,Italy,Europe
+EU,IT,Italy,Europe
+EU,IT,Italy,Europe
+EU,IT,Italy,Europe
+EU,LT,Lithuania,Europe
+EU,LT,Lithuania,Europe
+EU,LT,Lithuania,Europe
+EU,LT,Lithuania,Europe
+EU,LT,Lithuania,Europe
+EU,LT,Lithuania,Europe
+EU,LT,Lithuania,Europe
+EU,LU,Luxembourg,Europe
+EU,LU,Luxembourg,Europe
+EU,LU,Luxembourg,Europe
+EU,LU,Luxembourg,Europe
+EU,LU,Luxembourg,Europe
+EU,LU,Luxembourg,Europe
+EU,LU,Luxembourg,Europe
+EU,LV,Latvia,Europe
+EU,LV,Latvia,Europe
+EU,LV,Latvia,Europe
+EU,LV,Latvia,Europe
+EU,LV,Latvia,Europe
+EU,LV,Latvia,Europe
+EU,LV,Latvia,Europe
+EU,MT,Malta,Europe
+EU,MT,Malta,Europe
+EU,MT,Malta,Europe
+EU,MT,Malta,Europe
+EU,MT,Malta,Europe
+EU,MT,Malta,Europe
+EU,MT,Malta,Europe
+EU,NL,Netherlands,Europe
+EU,NL,Netherlands,Europe
+EU,NL,Netherlands,Europe
+EU,NL,Netherlands,Europe
+EU,NL,Netherlands,Europe
+EU,NL,Netherlands,Europe
+EU,NL,Netherlands,Europe
+EU,PL,Poland,Europe
+EU,PL,Poland,Europe
+EU,PL,Poland,Europe
+EU,PL,Poland,Europe
+EU,PL,Poland,Europe
+EU,PL,Poland,Europe
+EU,PL,Poland,Europe
+EU,PT,Portugal,Europe
+EU,PT,Portugal,Europe
+EU,PT,Portugal,Europe
+EU,PT,Portugal,Europe
+EU,PT,Portugal,Europe
+EU,PT,Portugal,Europe
+EU,PT,Portugal,Europe
+EU,RO,Romania,Europe
+EU,RO,Romania,Europe
+EU,RO,Romania,Europe
+EU,RO,Romania,Europe
+EU,RO,Romania,Europe
+EU,RO,Romania,Europe
+EU,RO,Romania,Europe
+EU,SE,Sweden,Europe
+EU,SE,Sweden,Europe
+EU,SE,Sweden,Europe
+EU,SE,Sweden,Europe
+EU,SE,Sweden,Europe
+EU,SE,Sweden,Europe
+EU,SE,Sweden,Europe
+EU,SI,Slovenia,Europe
+EU,SI,Slovenia,Europe
+EU,SI,Slovenia,Europe
+EU,SI,Slovenia,Europe
+EU,SI,Slovenia,Europe
+EU,SI,Slovenia,Europe
+EU,SI,Slovenia,Europe
+EU,SK,Slovakia,Europe
+EU,SK,Slovakia,Europe
+EU,SK,Slovakia,Europe
+EU,SK,Slovakia,Europe
+EU,SK,Slovakia,Europe
+EU,SK,Slovakia,Europe
+EU,SK,Slovakia,Europe
+EU,GB,United Kingdom,Europe
+EU,GB,United Kingdom,Europe
+EU,GB,United Kingdom,Europe
+EU,GB,United Kingdom,Europe
+EU,GB,United Kingdom,Europe
+EU,GB,United Kingdom,Europe
+EU,GB,United Kingdom,Europe
+ROW,US,United States,America
+ROW,US,United States,America
+ROW,US,United States,America
+ROW,US,United States,America
+ROW,US,United States,America
+ROW,US,United States,America
+ROW,US,United States,America
+ROW,JP,Japan,Asia and Pacific
+ROW,JP,Japan,Asia and Pacific
+ROW,JP,Japan,Asia and Pacific
+ROW,JP,Japan,Asia and Pacific
+ROW,JP,Japan,Asia and Pacific
+ROW,JP,Japan,Asia and Pacific
+ROW,JP,Japan,Asia and Pacific
+ROW,CN,China,Asia and Pacific
+ROW,CN,China,Asia and Pacific
+ROW,CN,China,Asia and Pacific
+ROW,CN,China,Asia and Pacific
+ROW,CN,China,Asia and Pacific
+ROW,CN,China,Asia and Pacific
+ROW,CN,China,Asia and Pacific
+ROW,CA,Canada,America
+ROW,CA,Canada,America
+ROW,CA,Canada,America
+ROW,CA,Canada,America
+ROW,CA,Canada,America
+ROW,CA,Canada,America
+ROW,CA,Canada,America
+ROW,KR,South Korea,Asia and Pacific
+ROW,KR,South Korea,Asia and Pacific
+ROW,KR,South Korea,Asia and Pacific
+ROW,KR,South Korea,Asia and Pacific
+ROW,KR,South Korea,Asia and Pacific
+ROW,KR,South Korea,Asia and Pacific
+ROW,KR,South Korea,Asia and Pacific
+ROW,BR,Brazil,America
+ROW,BR,Brazil,America
+ROW,BR,Brazil,America
+ROW,BR,Brazil,America
+ROW,BR,Brazil,America
+ROW,BR,Brazil,America
+ROW,BR,Brazil,America
+ROW,IN,India,Asia and Pacific
+ROW,IN,India,Asia and Pacific
+ROW,IN,India,Asia and Pacific
+ROW,IN,India,Asia and Pacific
+ROW,IN,India,Asia and Pacific
+ROW,IN,India,Asia and Pacific
+ROW,IN,India,Asia and Pacific
+ROW,MX,Mexico,America
+ROW,MX,Mexico,America
+ROW,MX,Mexico,America
+ROW,MX,Mexico,America
+ROW,MX,Mexico,America
+ROW,MX,Mexico,America
+ROW,MX,Mexico,America
+EU,RU,Russia,Europe
+EU,RU,Russia,Europe
+EU,RU,Russia,Europe
+EU,RU,Russia,Europe
+EU,RU,Russia,Europe
+EU,RU,Russia,Europe
+EU,RU,Russia,Europe
+ROW,AU,Australia,Asia and Pacific
+ROW,AU,Australia,Asia and Pacific
+ROW,AU,Australia,Asia and Pacific
+ROW,AU,Australia,Asia and Pacific
+ROW,AU,Australia,Asia and Pacific
+ROW,AU,Australia,Asia and Pacific
+ROW,AU,Australia,Asia and Pacific
+EU,CH,Switzerland,Europe
+EU,CH,Switzerland,Europe
+EU,CH,Switzerland,Europe
+EU,CH,Switzerland,Europe
+EU,CH,Switzerland,Europe
+EU,CH,Switzerland,Europe
+EU,CH,Switzerland,Europe
+ROW,TR,Turkey,Middle East
+ROW,TR,Turkey,Middle East
+ROW,TR,Turkey,Middle East
+ROW,TR,Turkey,Middle East
+ROW,TR,Turkey,Middle East
+ROW,TR,Turkey,Middle East
+ROW,TR,Turkey,Middle East
+ROW,TW,Taiwan,Asia and Pacific
+ROW,TW,Taiwan,Asia and Pacific
+ROW,TW,Taiwan,Asia and Pacific
+ROW,TW,Taiwan,Asia and Pacific
+ROW,TW,Taiwan,Asia and Pacific
+ROW,TW,Taiwan,Asia and Pacific
+ROW,TW,Taiwan,Asia and Pacific
+EU,NO,Norway,Europe
+EU,NO,Norway,Europe
+EU,NO,Norway,Europe
+EU,NO,Norway,Europe
+EU,NO,Norway,Europe
+EU,NO,Norway,Europe
+EU,NO,Norway,Europe
+ROW,ID,Indonesia,Asia and Pacific
+ROW,ID,Indonesia,Asia and Pacific
+ROW,ID,Indonesia,Asia and Pacific
+ROW,ID,Indonesia,Asia and Pacific
+ROW,ID,Indonesia,Asia and Pacific
+ROW,ID,Indonesia,Asia and Pacific
+ROW,ID,Indonesia,Asia and Pacific
+ROW,ZA,South Africa,Africa
+ROW,ZA,South Africa,Africa
+ROW,ZA,South Africa,Africa
+ROW,ZA,South Africa,Africa
+ROW,ZA,South Africa,Africa
+ROW,ZA,South Africa,Africa
+ROW,ZA,South Africa,Africa
+ROW,WA,RoW Asia and Pacific,Asia and Pacific
+ROW,WA,RoW Asia and Pacific,Asia and Pacific
+ROW,WA,RoW Asia and Pacific,Asia and Pacific
+ROW,WA,RoW Asia and Pacific,Asia and Pacific
+ROW,WA,RoW Asia and Pacific,Asia and Pacific
+ROW,WA,RoW Asia and Pacific,Asia and Pacific
+ROW,WA,RoW Asia and Pacific,Asia and Pacific
+ROW,WL,RoW America,America
+ROW,WL,RoW America,America
+ROW,WL,RoW America,America
+ROW,WL,RoW America,America
+ROW,WL,RoW America,America
+ROW,WL,RoW America,America
+ROW,WL,RoW America,America
+EU,WE,RoW Europe,Europe
+EU,WE,RoW Europe,Europe
+EU,WE,RoW Europe,Europe
+EU,WE,RoW Europe,Europe
+EU,WE,RoW Europe,Europe
+EU,WE,RoW Europe,Europe
+EU,WE,RoW Europe,Europe
+ROW,WF,RoW Africa,Africa
+ROW,WF,RoW Africa,Africa
+ROW,WF,RoW Africa,Africa
+ROW,WF,RoW Africa,Africa
+ROW,WF,RoW Africa,Africa
+ROW,WF,RoW Africa,Africa
+ROW,WF,RoW Africa,Africa
+ROW,WM,RoW Middle East,Middle East
+ROW,WM,RoW Middle East,Middle East
+ROW,WM,RoW Middle East,Middle East
+ROW,WM,RoW Middle East,Middle East
+ROW,WM,RoW Middle East,Middle East
+ROW,WM,RoW Middle East,Middle East
+ROW,WM,RoW Middle East,Middle East
