@@ -17,6 +17,7 @@ All exercises for the advanced course on EEIOA at Leiden University CML
 - [Environmental footprints of nations](national_enviro_footprint)
 - [Introduction to EXIOBASE](intro_exiobase)
 - [MRIO seminal works](MRIO_seminal_works)
+- [Supplementary Session](supplementary_session)
 - [Mid-term exam](midterm)
 - [Technology-adjusted CBA](carbon_based_accounting)
 - [Structural decomposition analysis](structural_decomposition_analysis)
@@ -37,5 +38,3 @@ Integrated group assignment (50%; ≥5.5 to pass )
 - Consultation meeting, Q&As
 - Submission: script and presentation slides
 - Revise if <5.5
-
-### Additional resources
