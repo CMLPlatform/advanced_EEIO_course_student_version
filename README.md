@@ -30,7 +30,7 @@ All exercises for the advanced course on EEIOA at Leiden University CML
 Mid-term exam (50%; ≥5.5 to pass)
 
 - Mock exam & mid-term review
-- Retake (retake grade will be capped at 6.5)
+- Retake
 
 Integrated group assignment (50%; ≥5.5 to pass )
 
