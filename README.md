@@ -19,11 +19,11 @@ All exercises for the advanced course on EEIOA at Leiden University CML
 - [MRIO seminal works](MRIO_seminal_works)
 - [Supplementary Session](supplementary_session)
 - [Mid-term exam](midterm)
-- [Technology-adjusted CBA](carbon_based_accounting)
-- [Structural decomposition analysis](structural_decomposition_analysis)
-- [Modeling circularity interventions](modelling_circularity_interventions)
 - [Waste IO](waste_IO)
 - [Physical and Hybrid IO tables](physical_n_hybrid_IO)
+- [Modeling circularity interventions](modelling_circularity_interventions)
+- [Technology-adjusted CBA](carbon_based_accounting)
+- [Structural decomposition analysis](structural_decomposition_analysis)
 
 ## Assessments
 
