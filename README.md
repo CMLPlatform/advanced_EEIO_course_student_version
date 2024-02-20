@@ -11,19 +11,19 @@ All exercises for the advanced course on EEIOA at Leiden University CML
 
 ### Exercises by Weekly program:
 
-- [IOT & National accounts](IOT_n_national_accounts)
-- [Supply and use tables](supply_n_use_tables)
-- [Supply chain linkages - Two IO models: Leontief v. Ghosh](supply_chain_linkages)
-- [Environmental footprints of nations](national_enviro_footprint)
-- [Introduction to EXIOBASE](intro_exiobase)
-- [MRIO seminal works](MRIO_seminal_works)
+- [1. IOT & National accounts](IOT_n_national_accounts)
+- [2. Supply and use tables](supply_n_use_tables)
+- [3. Supply chain linkages - Two IO models: Leontief v. Ghosh](supply_chain_linkages)
+- [4. Environmental footprints of nations](national_enviro_footprint)
+- [5. Introduction to EXIOBASE](intro_exiobase)
+- [6. MRIO seminal works](MRIO_seminal_works)
 - [Supplementary Session](supplementary_session)
 - [Mid-term exam](midterm)
-- [Waste IO](waste_IO)
-- [Physical and Hybrid IO tables](physical_n_hybrid_IO)
-- [Modeling circularity interventions](modelling_circularity_interventions)
-- [Technology-adjusted CBA](carbon_based_accounting)
-- [Structural decomposition analysis](structural_decomposition_analysis)
+- [7. Waste IO](waste_IO)
+- [8. Physical and Hybrid IO tables](physical_n_hybrid_IO)
+- [9. Modeling circularity interventions](modelling_circularity_interventions)
+- [10. Technology-adjusted CBA](carbon_based_accounting)
+- [11. Structural decomposition analysis](structural_decomposition_analysis)
 
 ## Assessments
 
