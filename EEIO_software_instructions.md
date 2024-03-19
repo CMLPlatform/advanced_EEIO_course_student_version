@@ -25,15 +25,13 @@ To learn more:
 
 ## 3. Accessing the exercises
 
-All exercises will be shared publicly on Github Gist where you can download them directly: <https://gist.github.com/FDonati>
-
-However, if you want you can also access them on their original GitHub repository at this url: <https://github.com/CMLPlatform/advanced_EEIO_course_student_version>
+All Jupyter Notebooks are provided through brightspace but if you want you can also access them on their original GitHub repository at this url: <https://github.com/CMLPlatform/advanced_EEIO_course_student_version>
 
 If you want to work with the original repository instead of the snippets of code through Github Gist, keep on reading the following Git optional instructions.
 
 ### 3.1 Git optional instructions:
 
-While you can download the exercises directly from Gist by using the download button, we recommend you familiarize yourself with git procedures instead, as these are fundamental skills in good software management practices.
+While you can download the exercises directly from brightSpace, we recommend you familiarize yourself with git procedures instead, as these are fundamental skills in good software management practices.
 
 If you don’t have it already, you will need to create a github account: <https://github.com/join>
 
