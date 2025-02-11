@@ -17,20 +17,20 @@ All exercises for the advanced course on EEIOA at Leiden University CML
 - [4. Environmental footprints of nations](national_enviro_footprint)
 - [5. Introduction to EXIOBASE](intro_exiobase)
 - [6. MRIO seminal works](MRIO_seminal_works)
-- [Supplementary Session](supplementary_session)
-- [Mid-term exam](midterm)
-- [7. Waste IO](waste_IO)
-- [8. Physical and Hybrid IO tables](physical_n_hybrid_IO)
-- [9. Modeling circularity interventions](modelling_circularity_interventions)
-- [10. Technology-adjusted CBA](carbon_based_accounting)
-- [11. Structural decomposition analysis](structural_decomposition_analysis)
+- [7. Supplementary Session](supplementary_session)
+- [8. Mid-term exam](midterm)
+- [9. Waste IO](waste_IO)
+- [10. Physical and Hybrid IO tables](physical_n_hybrid_IO)
+- [11. Circularity interventions](circularity_interventions)
+- [12. Technology-adjusted CBA](carbon_based_accounting)
+- [13. Structural decomposition analysis](structural_decomposition_analysis)
 
 ## Assessments
 
 Mid-term exam (50%; ≥5.5 to pass)
 
 - Mock exam & mid-term review
-- Retake
+- Retake (retake grade will be capped at 6.5)
 
 Integrated group assignment (50%; ≥5.5 to pass )
 
