@@ -21,7 +21,7 @@ All exercises for the advanced course on EEIOA at Leiden University CML
 - [8. Mid-term exam](midterm)
 - [9. Waste IO](waste_IO)
 - [10. Physical and Hybrid IO tables](physical_n_hybrid_IO)
-- [11. Circularity interventions](circularity_interventions)
+- [11. Scenario_analysis](scenario_analysis)
 - [12. Technology-adjusted CBA](carbon_based_accounting)
 - [13. Structural decomposition analysis](structural_decomposition_analysis)
 
